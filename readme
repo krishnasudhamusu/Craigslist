@@ -1,0 +1,2 @@
+A version of craigslist with decent GUI to search away fast results .
+I created this iwth django webframework and added a functionality , filtering with price range .
